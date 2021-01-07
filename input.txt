@@ -1,0 +1,3 @@
+Telecom
+Quantity:10
+Customer:Tele2
